@@ -81,7 +81,7 @@
       <b><a href="https://github.com/vadikam100500/Vadikam_wb_parser">Vadikam_wb_parser</a><b>
       <ul>
         <li>Parser for marketplace "Wildberries".</li>
-        <li>Stack: Python 3, beautifulsoup4, requests.</li>
+        <li>Stack: Python 3, aiohttp, asyncio, beautifulsoup4, requests.</li>
       </ul>
     </li>
   </ul>
