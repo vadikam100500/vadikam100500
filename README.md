@@ -49,24 +49,18 @@
 
 <div align="left">
   <ul>
-    <li> :panda_face: :couple:
-      <b><a href="https://github.com/vadikam100500/Twitter_killer">Twitter_killer</a><b>
+    <li> 🎦📖🎵
+      <b><a href="https://github.com/vadikam100500/API_Review">API_Review</a><b>
       <ul>
-        <li>Social network of bloggers, my first project</li>
-        <li>Stack: Python 3, Django 2.2, SQLite3, Bootstrap, CSS</li>
+        <li>API for user's reviews about movies, books and music.</li>
+        <li>Stack: Python 3, Django REST Framework, Django 2.2, PostgreSQL, Simple-JWT, OpenAPI, Docker, GithubActions.</li>
       </ul>
     </li>
-    <li> :panda_face: 👨‍💻
-      <b><a href="https://github.com/vadikam100500/Twitter_killer_API">Twitter_killer_API</a><b>
+    <li> ©️
+      <b><a href="https://github.com/vadikam100500/Vadikam_wb_parser">Vadikam_wb_parser</a><b>
       <ul>
-        <li>API for Twitter_killer with documentation</li>
-        <li>Stack: Python 3, Django REST Framework, Django 2.2, SQLite3, Simple-JWT, OpenAPI.</li>
-      </ul>
-    </li>
-    <li> :robot: 
-      <b><a href="https://github.com/vadikam100500/Telegram_dz_bot">Telegram_dz_bot</a><b>
-      <ul>
-        <li>The bot checks the status of the project code review via API, notifies about changes, writes and sends logs to Telegram.</li>
+        <li>Parser for marketplace "Wildberries".</li>
+        <li>Stack: Python 3, aiohttp, asyncio, beautifulsoup4, requests.</li>
       </ul>
     </li>
     <li> 👨‍💻
@@ -76,18 +70,24 @@
         <li>Stack: Python 3, Django REST Framework, Django 2.2, SQLite3.</li>
       </ul>
     </li>
-    <li> 🎦📖🎵
-      <b><a href="https://github.com/vadikam100500/API_Review">API_Review</a><b>
+    <li> :robot: 
+      <b><a href="https://github.com/vadikam100500/Telegram_dz_bot">Telegram_dz_bot</a><b>
       <ul>
-        <li>API for user's reviews about movies, books and music.</li>
+        <li>Bot checks the status of the project code review via API, notifies about changes, writes and sends logs to Telegram.</li>
+      </ul>
+    </li>
+    <li> :panda_face: 👨‍💻
+      <b><a href="https://github.com/vadikam100500/Twitter_killer_API">Twitter_killer_API</a><b>
+      <ul>
+        <li>API for Twitter_killer with documentation</li>
         <li>Stack: Python 3, Django REST Framework, Django 2.2, SQLite3, Simple-JWT, OpenAPI.</li>
       </ul>
     </li>
-    <li> ©️
-      <b><a href="https://github.com/vadikam100500/Vadikam_wb_parser">Vadikam_wb_parser</a><b>
+    <li> :panda_face: :couple:
+      <b><a href="https://github.com/vadikam100500/Twitter_killer">Twitter_killer</a><b>
       <ul>
-        <li>Parser for marketplace "Wildberries".</li>
-        <li>Stack: Python 3, aiohttp, asyncio, beautifulsoup4, requests.</li>
+        <li>Social network of bloggers, my first project</li>
+        <li>Stack: Python 3, Django 2.2, SQLite3, Bootstrap, CSS</li>
       </ul>
     </li>
   </ul>
