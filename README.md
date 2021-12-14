@@ -23,6 +23,8 @@
   <a href="https://www.nginx.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+  <a href="https://docs.python.org/3/library/unittest.html" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH26c1wNYp1Ph46s75WF1YTXGx1fS6VxPqHQ&usqp=CAU" alt="unittest" width="40" height="40"/></a>
+  <a href="https://docs.pytest.org/en/6.2.x/" target="_blank"><img src="https://docs.pytest.org/en/6.2.x/_static/pytest1.png" alt="pytest" width="40" height="40"/></a>
 </p>
 </div>
 
@@ -49,25 +51,33 @@
 
 <div align="left">
   <ul>
+    <li> 👨‍👩‍👧‍👦🍴 🥫 🥩
+      <b><a href="https://github.com/vadikam100500/foodgram-project-react">Food Assistant</a><b>
+      <ul>
+        <li>Service for user's recipes.</li>
+        <li><a href="https://foodassist.ga/recipes">Check it deployed</a></li>
+        <li>Stack: Python, Django REST Framework, Django 3.2, PostgreSQL, Djoser, OpenAPI, Pytest, Docker, GithubActions.</li>
+      </ul>
+    </li>
     <li> 🎦📖🎵
       <b><a href="https://github.com/vadikam100500/API_Review">API_Review</a><b>
       <ul>
         <li>API for user's reviews about movies, books and music.</li>
-        <li>Stack: Python 3, Django REST Framework, Django 2.2, PostgreSQL, Simple-JWT, OpenAPI, Docker, GithubActions.</li>
+        <li>Stack: Python, Django REST Framework, Django 2.2, PostgreSQL, Simple-JWT, OpenAPI, Docker, GithubActions.</li>
       </ul>
     </li>
     <li> ©️
       <b><a href="https://github.com/vadikam100500/Vadikam_wb_parser">Vadikam_wb_parser</a><b>
       <ul>
         <li>Parser for marketplace "Wildberries".</li>
-        <li>Stack: Python 3, aiohttp, asyncio, beautifulsoup4, requests.</li>
+        <li>Stack: Python, aiohttp, asyncio, beautifulsoup4, requests.</li>
       </ul>
     </li>
     <li> 👨‍💻
       <b><a href="https://github.com/vadikam100500/API_For_Sensei">API_For_Sensei</a><b>
       <ul>
         <li>Simple API on django by TOR of mentor</li>
-        <li>Stack: Python 3, Django REST Framework, Django 2.2, SQLite3.</li>
+        <li>Stack: Python, Django REST Framework, Django 2.2, SQLite3.</li>
       </ul>
     </li>
     <li> :robot: 
@@ -80,14 +90,14 @@
       <b><a href="https://github.com/vadikam100500/Twitter_killer_API">Twitter_killer_API</a><b>
       <ul>
         <li>API for Twitter_killer with documentation</li>
-        <li>Stack: Python 3, Django REST Framework, Django 2.2, SQLite3, Simple-JWT, OpenAPI.</li>
+        <li>Stack: Python, Django REST Framework, Django 2.2, SQLite3, Simple-JWT, OpenAPI.</li>
       </ul>
     </li>
     <li> :panda_face: :couple:
       <b><a href="https://github.com/vadikam100500/Twitter_killer">Twitter_killer</a><b>
       <ul>
         <li>Social network of bloggers, my first project</li>
-        <li>Stack: Python 3, Django 2.2, SQLite3, Bootstrap, CSS</li>
+        <li>Stack: Python, Django 2.2, SQLite3, Bootstrap, CSS</li>
       </ul>
     </li>
   </ul>
