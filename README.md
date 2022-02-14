@@ -3,7 +3,6 @@
 
 <div align="left">
 <ul>
-  <li>🔭 I’ve finished Back-End Python Developer professional training course by the <b><a href="https://practicum.yandex.ru/backend-developer">Yandex Praсticum</a></b></li>
   <li>🌱 I’m currently learning <b>Flask</b> and <b>FastAPI</b></li>
   <li>💬 Ask me about <b>Python, Django, DRF, HTML, CSS</b></li>
 </ul>
