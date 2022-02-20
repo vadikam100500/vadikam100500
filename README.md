@@ -42,7 +42,7 @@
   <a href="https://t.me/vadikam100500" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" width="40" height="40"/></a>
   <a href="mailto:vadik.msk.100500@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Gmail.jpg" alt="gmail" width="40" height="40"/></a>
   <a href="https://www.linkedin.com/in/vadim-kamendov-5a5758223/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="linkedin" width="40" height="40"/></a>
-  <a href="https://www.instagram.com/vadim.kame___" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/INSTAGRAM.jpg" alt="instagram" width="40" height="40"/></a>
+  <a href="https://www.instagram.com/vadim.kame___" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/640px-Instagram_logo_2016.svg.png" alt="instagram" width="40" height="40"/></a>
 </p>
 
 <div align="center">
