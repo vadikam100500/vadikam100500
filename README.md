@@ -54,7 +54,6 @@
       <b><a href="https://github.com/vadikam100500/foodgram-project-react">Food Assistant</a><b>
       <ul>
         <li>Service for user's recipes.</li>
-        <li><a href="https://foodassist.ga/recipes">Check it deployed</a></li>
         <li>Stack: Python, Django REST Framework, Django 3.2, PostgreSQL, Djoser, OpenAPI, Pytest, Docker, GithubActions.</li>
       </ul>
     </li>
