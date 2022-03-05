@@ -31,14 +31,15 @@
 
 **Databases**
 
-![Sqlite](https://img.shields.io/badge/-Sqlite-007ACC?style=flat-square&logo=Sqlite)
-![Postgresql](https://img.shields.io/badge/-Postgresql-%23F7DF1C?style=flat-square&logo=Postgresql)
+![Sqlite](https://img.shields.io/badge/-Sqlite-46a2f1?style=flat-square&logo=Sqlite&logoColor=white)
+![Postgresql](https://img.shields.io/badge/-Postgresql-007ACC?style=flat-square&logo=Postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=Redis)
 
 **Front-end**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-blueviolet?style=flat-square&logo=Bootstrap&logoColor=white)
 
 **Tools**
 
