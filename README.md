@@ -1,32 +1,62 @@
-<h1 align="center">Hi there, I'm Vadim 👋</h1>
-<h3 align="center">I'm a Python Developer</h3>
+## Hi there 👋 I'm a Junior Python developer
 
-<div align="left">
-<ul>
-  <li>🌱 I’m currently learning <b>Flask</b> and <b>FastAPI</b></li>
-  <li>💬 Ask me about <b>Python, Django, DRF, HTML, CSS</b></li>
-</ul>
-</div>
+<a href="https://t.me/vadikam100500">
+  <img align="left" alt="Telegram" width="22px" src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667">
+</a>
+<a href="https://www.linkedin.com/in/vadim-kamendov-5a5758223/">
+  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/vadim.kame___" target="_blank">
+  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/640px-Instagram_logo_2016.svg.png" alt="instagram" width="22px"
+</a>
+<a href="mailto:vadik.msk.100500@gmail.com" target="_blank">
+  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Gmail.jpg" alt="gmail" width="22px" height="22px"/>
+</a>
 
-<div align="center">
-<h3>Languages and Tools:</h3>
-<p>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/></a>
-<!--   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a> -->
-  <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.nginx.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://docs.python.org/3/library/unittest.html" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH26c1wNYp1Ph46s75WF1YTXGx1fS6VxPqHQ&usqp=CAU" alt="unittest" width="40" height="40"/></a>
-  <a href="https://docs.pytest.org/en/6.2.x/" target="_blank"><img src="https://docs.pytest.org/en/6.2.x/_static/pytest1.png" alt="pytest" width="40" height="40"/></a>
-</p>
-</div>
+</br>
 
+## Technology stack
+
+<img align="right" alt="GIF" src="https://github.com/vadikam100500/vadikam100500/blob/main/vadikam.gif?raw=true" width="500" height="320" />
+
+**Back-end**
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
+![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
+![ORMAR](https://img.shields.io/badge/-ORMAR-DD0031?style=flat-square&logo=ORMAR)
+![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-square&logo=SqlAlchemy)
+![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
+
+**Databases**
+
+![Sqlite](https://img.shields.io/badge/-Sqlite-007ACC?style=flat-square&logo=Sqlite)
+![Postgresql](https://img.shields.io/badge/-Postgresql-%23F7DF1C?style=flat-square&logo=Postgresql)
+![Redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=Redis)
+
+**Front-end**
+
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+
+**Tools**
+
+![NGINX](https://img.shields.io/badge/Nginx-ffce5a?tyle=flat-square&logo=Nginx)
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
+
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+
+**Testing**
+
+![Unittest](https://img.shields.io/badge/-Unittest-grey?style=flat-square)
+![Pytest](https://img.shields.io/badge/-Pytest-1d72b1?style=flat-square&logo=pytest)
+
+**Stats**
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=vadikam100500&hide=contribs&show_icons=true&theme=dark">
   <img  align="center" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=vadikam100500&hide=contribs&show_icons=true&theme=dark" />
@@ -36,17 +66,8 @@
 </a>
 </div>
 
-<div align="center">
-<h3>My contacts</h3>
-<p>
-  <a href="https://t.me/vadikam100500" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" width="40" height="40"/></a>
-  <a href="mailto:vadik.msk.100500@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Gmail.jpg" alt="gmail" width="40" height="40"/></a>
-  <a href="https://www.linkedin.com/in/vadim-kamendov-5a5758223/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="linkedin" width="40" height="40"/></a>
-  <a href="https://www.instagram.com/vadim.kame___" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/640px-Instagram_logo_2016.svg.png" alt="instagram" width="40" height="40"/></a>
-</p>
 
-<div align="center">
-<h3>My projects</h3>
+## My projects
 
 <div align="left">
   <ul>
