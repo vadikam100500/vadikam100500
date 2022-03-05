@@ -56,7 +56,8 @@
 ![Unittest](https://img.shields.io/badge/-Unittest-grey?style=flat-square)
 ![Pytest](https://img.shields.io/badge/-Pytest-1d72b1?style=flat-square&logo=pytest)
 
-**Stats**
+## Stats
+
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=vadikam100500&hide=contribs&show_icons=true&theme=dark">
   <img  align="center" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=vadikam100500&hide=contribs&show_icons=true&theme=dark" />
@@ -71,6 +72,13 @@
 
 <div align="left">
   <ul>
+    <li> :speech_balloon:
+      <b><a href="https://github.com/vadikam100500/fastapi/tree/main/notifier">Notify service.</a><b>
+      <ul>
+        <li>Service for notifications to users.</li>
+        <li>Stack: Python, Fastapi, Pydantic, Uvicorn, Redis(aioredis), Celery, Flower, Docker</li>
+      </ul>
+    </li>
     <li> 👨‍👩‍👧‍👦🍴 🥫 🥩
       <b><a href="https://github.com/vadikam100500/foodgram-project-react">Food Assistant</a><b>
       <ul>
@@ -121,6 +129,3 @@
     </li>
   </ul>
 </div>
-<p>
-  <img src="https://sd.keepcalms.com/i/have-fun-and-enjoy-20.png" alt="telegram" width="300" height="300"/>
-</p>
