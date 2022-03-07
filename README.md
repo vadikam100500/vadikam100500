@@ -43,7 +43,7 @@
 
 **Tools**
 
-![NGINX](https://img.shields.io/badge/Nginx-ffce5a?tyle=flat-square&logo=Nginx)
+![NGINX](https://img.shields.io/badge/Nginx-green?style=flat-square&logo=Nginx)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
 
