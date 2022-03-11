@@ -101,17 +101,17 @@
         <li>Stack: Python, aiohttp, asyncio, beautifulsoup4, requests.</li>
       </ul>
     </li>
+    <li> :robot: 
+      <b><a href="https://github.com/vadikam100500/telegram_bots/tree/main/vadikam_tg_hh_updater">HH_updater_bot</a><b>
+      <ul>
+        <li>Bot update resume on hh.ru, check for responses of vacancies and send to telegram if new. Also send failing logs to tg.</li>
+      </ul>
+    </li>
     <li> 👨‍💻
       <b><a href="https://github.com/vadikam100500/API_For_Sensei">API_For_Sensei</a><b>
       <ul>
         <li>Simple API on django by TOR of mentor</li>
         <li>Stack: Python, Django REST Framework, Django 2.2, SQLite3.</li>
-      </ul>
-    </li>
-    <li> :robot: 
-      <b><a href="https://github.com/vadikam100500/Telegram_dz_bot">Telegram_dz_bot</a><b>
-      <ul>
-        <li>Bot checks the status of the project code review via API, notifies about changes, writes and sends logs to Telegram.</li>
       </ul>
     </li>
     <li> :panda_face: 👨‍💻
