@@ -69,7 +69,7 @@
 </div>
 
 
-## My projects
+## My projects while was learning python
 
 <div align="left">
   <ul>
