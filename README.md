@@ -1,10 +1,10 @@
-## Hi there 👋 I'm a Junior+/Middle Python developer
+## Hi there 👋 I'm a Python developer
 
 <a href="https://t.me/vadikam100500">
-  <img align="left" alt="Telegram" width="22px" src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667">
+  <img align="left" alt="Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png">
 </a>
 <a href="https://www.linkedin.com/in/vadim-kamendov-5a5758223/">
-  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="LinkedIN" width="22px" src="https://store-images.s-microsoft.com/image/apps.21465.9007199266245564.5c86c318-51bf-425a-9b3d-75e1fd3198b1.cad44b54-5070-478b-a977-c5d442325b8a?h=210" />
 </a>
 <a href="https://www.instagram.com/vadim.kame___" target="_blank">
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/640px-Instagram_logo_2016.svg.png" alt="instagram" width="22px"
